@@ -1,0 +1,33 @@
+
+
+.copy-btn {
+    height: 40px;
+    width: 165px;
+    background-color: white;
+    border: 1px solid #D4D6D5;
+    border-radius: 8px;
+    padding-left: 66px;
+    padding-right: 66px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-btn {
+    height: 40px;
+    width: 165px;
+    background-color: #00A63E;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding-left: 66px;
+    padding-right: 66px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8px;
+}
